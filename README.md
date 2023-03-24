@@ -1,10 +1,9 @@
 # App Tracking Transparency: Is iOS doing their job right?
 
 
-## 1. Network Trafffic Data
+## 1. Network Trafffic Capture
 Proxyman, an iOS HTTP Proxy application, was used as the main tool to intercept network traffic.(https://proxyman.io/)
-
-Traffic is categorized into Allow tracking, Not Allow tracking, and Not Prompted Allow when using the app. 
+We did not upload the captured traffic because of privacy issues. 
 
 ## 2. Domain List Data
 From the network traffic we collected, we gathered a list of domains accessed by each app. 
