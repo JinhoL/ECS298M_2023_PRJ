@@ -1,0 +1,14 @@
+app-measurement.com
+configuration.ls.apple.com
+device-provisioning.googleapis.com
+fcmtoken.googleapis.com
+firebaseinstallations.googleapis.com
+food.muncho.io
+gsp-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
+gspe19-ssl.ls.apple.com
+gspe21-ssl.ls.apple.com
+gspe35-ssl.ls.apple.com
+images.muncho.io
+p58-fmf.icloud.com
+www.google.com

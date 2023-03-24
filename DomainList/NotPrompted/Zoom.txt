@@ -1,0 +1,7 @@
+us04as.zoom.us
+us04nws.zoom.us
+us04web.zoom.us
+us04www3.zoom.us
+us04xmpp1.zoom.us
+us04xmppapi.zoom.us
+us04zpns.zoom.us

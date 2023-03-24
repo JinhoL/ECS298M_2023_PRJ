@@ -1,0 +1,8 @@
+bag.itunes.apple.com
+client-api.itunes.apple.com
+configuration.apple.com
+gateway.icloud.com
+gsp64-ssl.ls.apple.com
+mesu.apple.com
+play.itunes.apple.com
+s.mzstatic.com

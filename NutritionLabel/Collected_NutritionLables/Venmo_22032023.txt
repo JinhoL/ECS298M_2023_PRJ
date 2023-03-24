@@ -1,0 +1,34 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Location: Precise Location,Coarse Location
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data
+	Purchases: Purchase History
+	Location: Precise Location,Coarse Location
+	Contact Info: Email Address,Name,Phone Number
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data
+	Location: Precise Location,Coarse Location
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data
+	Purchases: Purchase History
+	Financial Info: Payment Info,Credit Info,Other Financial Info
+	Location: Precise Location,Coarse Location
+	Contact Info: Physical Address,Email Address,Name,Phone Number
+	Contacts: Contacts
+	User Content: Photos or Videos,Customer Support
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data
+	Purchases: Purchase History
+	Financial Info: Payment Info,Credit Info,Other Financial Info
+	Contacts: Contacts
+	User Content: Photos or Videos
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	Search History: Search History
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Search History: Search History
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Search History: Search History
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+

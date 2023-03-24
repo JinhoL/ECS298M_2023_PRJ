@@ -1,0 +1,17 @@
+
+api2.branch.io
+app-measurement.com
+ca.iadsdk.apple.com
+cn-dc1.oojoovae.org
+cn-dc1.uber.com
+cn-geo1.uber.com
+cn-phx2.cfe.uber.com
+d1a3f4spazzrp4.cloudfront.net
+d1w2poirtb3as9.cloudfront.net
+dyguxp1m9tbrw.cloudfront.net
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+in.appcenter.ms
+inappcheck.itunes.apple.com
+ocsp2.apple.com

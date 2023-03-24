@@ -1,0 +1,52 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Purchases: Purchase History
+	Contact Info: Physical Address,Email Address,Name,Phone Number
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data
+	Health & Fitness: Health
+	Purchases: Purchase History
+	Financial Info: Payment Info,Other Financial Info
+	Location: Precise Location
+	Contact Info: Physical Address,Email Address,Name,Phone Number
+	Contacts: Contacts
+	User Content: Photos or Videos,Audio Data,Customer Support,Other User Content
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data,Other Usage Data
+	Sensitive Info: Sensitive Info
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Other Data: Other Data Types
+	Purchases: Purchase History
+	Contact Info: Physical Address,Name
+	User Content: Photos or Videos,Audio Data
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Other Usage Data
+	Sensitive Info: Sensitive Info
+	Other Data: Other Data Types
+	Health & Fitness: Health
+	Purchases: Purchase History
+	Financial Info: Payment Info,Other Financial Info
+	Location: Precise Location
+	Contact Info: Physical Address,Email Address,Name,Phone Number
+	Contacts: Contacts
+	User Content: Photos or Videos,Audio Data,Customer Support,Other User Content
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data,Other Usage Data
+	Sensitive Info: Sensitive Info
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Other Data: Other Data Types
+	Health & Fitness: Health
+	Purchases: Purchase History
+	Financial Info: Payment Info,Other Financial Info
+	Contact Info: Physical Address,Email Address,Name,Phone Number
+	User Content: Photos or Videos,Audio Data,Customer Support,Other User Content
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Other Usage Data
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Other Data: Other Data Types
+

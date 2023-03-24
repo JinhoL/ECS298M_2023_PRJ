@@ -1,0 +1,13 @@
+17de4c1e.akstat.io
+analytics.chase.com
+c.go-mpulse.net
+cdn.zimperium.com
+certs.zimperium.com
+gateway.icloud.com
+in.appcenter.ms
+metrics.icloud.com
+mfasa.chase.com
+mpi-prod.zimperium.com
+secure04ea.chase.com
+sites.chase.com
+static.chasecdn.com

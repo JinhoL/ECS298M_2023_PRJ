@@ -1,0 +1,15 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Contact Info: Email Address,Name
+	Identifiers: User ID
+	Contact Info: Email Address
+	User Content: Emails or Text Messages,Photos or Videos,Audio Data,Customer Support
+	Identifiers: User ID
+	Usage Data: Product Interaction
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Location: Precise Location,Coarse Location
+	Contact Info: Email Address,Name,Phone Number
+	User Content: Emails or Text Messages,Photos or Videos,Audio Data,Customer Support
+	Identifiers: User ID,Device ID
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+

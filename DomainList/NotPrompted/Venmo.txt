@@ -1,0 +1,15 @@
+api-m.paypal.com
+api.venmo.com
+api2.branch.io
+app-measurement.com
+bag.itunes.apple.com
+cdn.branch.io
+cdn.optimizely.com
+config2.mparticle.com
+emoji.venmo.com
+firebaselogging-pa.googleapis.com
+gateway.icloud.com
+identity.mparticle.com
+in.appcenter.ms
+logx.optimizely.com
+metrics.icloud.com

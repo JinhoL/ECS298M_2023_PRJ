@@ -1,0 +1,10 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Contact Info: Email Address
+	Identifiers: User ID,Device ID
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	Contact Info: Name
+	User Content: Photos or Videos
+	Diagnostics: Crash Data
+

@@ -1,0 +1,16 @@
+
+api.sayweee.net
+app-measurement.com
+cdn.sayweee.net
+configuration.apple.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
+gateway.icloud.com
+graph.facebook.com
+img06.weeecdn.com
+inapps.appsflyer.com
+launches.appsflyer.com
+mdap.mpaas.cn-hongkong.aliyuncs.com
+o23420.ingest.sentry.io
+web.facebook.com
+www.paypalobjects.com

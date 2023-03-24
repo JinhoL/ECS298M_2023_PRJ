@@ -1,0 +1,12 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Diagnostics: Crash Data
+	Contact Info: Email Address,Name
+	User Content: Emails or Text Messages,Photos or Videos,Audio Data,Customer Support,Other User Content
+	Identifiers: User ID
+	Other Data: Other Data Types
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	Usage Data: Product Interaction,Other Usage Data
+	Diagnostics: Other Diagnostic Data
+

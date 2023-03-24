@@ -1,0 +1,12 @@
+app-measurement.com
+bag.itunes.apple.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+gateway.icloud.com
+in.appcenter.ms
+inappcheck.itunes.apple.com
+journey.pcms.apple.com
+overmind.datatheorem.com
+pd.itunes.apple.com
+piazza.com

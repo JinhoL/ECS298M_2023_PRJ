@@ -1,0 +1,16 @@
+a.slack-edge.com
+accounts.google.com
+ca.slack-edge.com
+edgeapi.slack.com
+files.slack.com
+lh3.googleusercontent.com
+mesu.apple.com
+oauth2.googleapis.com
+ocsp.pki.goog
+play.google.com
+sequoia.cdn-apple.com
+sessions.bugsnag.com
+slack.com
+slackb.com
+ssl.gstatic.com
+www.google.com

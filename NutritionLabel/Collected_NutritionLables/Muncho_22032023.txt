@@ -1,0 +1,10 @@
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	User Content: Photos or Videos
+	Financial Info: Payment Info
+	Location: Precise Location,Coarse Location
+	Contact Info: Physical Address,Email Address,Name,Phone Number,Other User Contact Info
+	User Content: Other User Content
+	Search History: Search History
+	Diagnostics: Crash Data,Performance Data
+

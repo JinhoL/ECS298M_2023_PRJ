@@ -1,0 +1,13 @@
+cdn.heapanalytics.com
+cdn.inst-fs-iad-prod.inscloudgate.net
+du11hjcvx0uqb.cloudfront.net
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+heapanalytics.com
+inappcheck.itunes.apple.com
+inst-fs-iad-prod.inscloudgate.net
+instructure-uploads.s3.amazonaws.com
+login.canvas.ucdavis.edu
+relay-iad.sentry.insops.net

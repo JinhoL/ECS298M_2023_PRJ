@@ -1,0 +1,17 @@
+4578.n.trusteer.com
+amp-api-edge.apps.apple.com
+cdnm.trusteer.com
+configuration.ls.apple.com
+connect.secure.wellsfargo.com
+gsa.apple.com
+gsp-ssl.ls.apple.com
+init.itunes.apple.com
+mupdates.trusteer.com
+ort.wellsfargo.com
+overmind.datatheorem.com
+pdx-col.eum-appdynamics.com
+play.itunes.apple.com
+rubicon.wellsfargo.com
+s3.amazonaws.com
+setup.icloud.com
+xp.apple.com

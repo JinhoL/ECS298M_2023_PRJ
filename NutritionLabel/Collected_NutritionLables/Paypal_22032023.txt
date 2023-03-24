@@ -1,0 +1,45 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Purchases: Purchase History
+	Contact Info: Email Address
+	Search History: Search History
+	Browsing History: Browsing History
+	Identifiers: Device ID
+	Usage Data: Product Interaction,Advertising Data,Other Usage Data
+	Purchases: Purchase History
+	User Content: Photos or Videos
+	Search History: Search History
+	Browsing History: Browsing History
+	Identifiers: Device ID
+	Usage Data: Product Interaction,Advertising Data,Other Usage Data
+	Purchases: Purchase History
+	Contact Info: Email Address,Name
+	Search History: Search History
+	Browsing History: Browsing History
+	Identifiers: Device ID
+	Usage Data: Product Interaction,Other Usage Data
+	Purchases: Purchase History
+	Financial Info: Payment Info,Credit Info,Other Financial Info
+	Location: Precise Location,Coarse Location
+	Contact Info: Physical Address,Email Address,Name,Phone Number,Other User Contact Info
+	Contacts: Contacts
+	Search History: Search History
+	Browsing History: Browsing History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Other Usage Data
+	Purchases: Purchase History
+	Financial Info: Payment Info,Credit Info,Other Financial Info
+	Location: Precise Location,Coarse Location
+	Contact Info: Physical Address,Email Address,Name,Phone Number,Other User Contact Info
+	Contacts: Contacts
+	User Content: Photos or Videos,Customer Support,Other User Content
+	Search History: Search History
+	Browsing History: Browsing History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction,Advertising Data,Other Usage Data
+	Other Data: Other Data Types
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+

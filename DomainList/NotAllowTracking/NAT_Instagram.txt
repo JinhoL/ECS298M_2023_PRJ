@@ -1,0 +1,16 @@
+bag.itunes.apple.com
+configuration.apple.com
+configuration.ls.apple.com
+facebook.com
+fbcdn.net
+graph.facebook.com
+gsp64-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
+i.instagram.com
+in.appcenter.ms
+init.push.apple.com
+m.facebook.com
+mesu.apple.com
+pancake.apple.com
+static.xx.fbcdn.net
+www.facebook.com

@@ -1,0 +1,15 @@
+app-measurement.com
+app.adjust.com
+app.adjust.net.in
+app.adjust.world
+bag.itunes.apple.com
+ca.iadsdk.apple.com
+cdn.discordapp.com
+clients3.google.com
+discord.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+mesu.apple.com
+o64374.ingest.sentry.io
+ocsp2.apple.com

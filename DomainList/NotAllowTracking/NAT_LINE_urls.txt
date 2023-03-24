@@ -1,0 +1,11 @@
+
+cix.line-apps.com
+d.line-scdn.net
+graph.facebook.com
+gw.line.naver.jp
+gwk.line.naver.jp
+help.line.me
+inappcheck.itunes.apple.com
+jp-col-tcp.nelo.linecorp.com
+ln-cdn.akamaized.net
+torimochi.line-apps.com

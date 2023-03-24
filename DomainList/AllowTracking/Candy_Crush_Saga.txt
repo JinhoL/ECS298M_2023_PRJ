@@ -1,0 +1,6 @@
+amp-api-edge.apps.apple.com
+gateway.icloud.com
+graph.facebook.com
+inappcheck.itunes.apple.com
+metrics.icloud.com
+mobilecrush.king.com

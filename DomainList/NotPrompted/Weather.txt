@@ -1,0 +1,5 @@
+bag.itunes.apple.com
+c.apple.news
+gs-loc.apple.com
+weather-analytics-events.apple.com
+weather-data.apple.com

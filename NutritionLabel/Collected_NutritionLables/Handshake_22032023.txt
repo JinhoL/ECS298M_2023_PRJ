@@ -1,0 +1,11 @@
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Identifiers: User ID
+	Usage Data: Product Interaction
+	Diagnostics: Crash Data
+	Usage Data: Product Interaction
+	Contact Info: Email Address,Name
+	Identifiers: User ID
+	Usage Data: Product Interaction
+	Diagnostics: Crash Data,Performance Data
+

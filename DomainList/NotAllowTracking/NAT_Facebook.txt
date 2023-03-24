@@ -1,0 +1,13 @@
+configuration.apple.com
+facebook.com
+fbcdn.net
+fbsbx.com
+graph.facebook.com
+i.instagram.com
+in.appcenter.ms
+m.facebook.com
+pancake.apple.com
+scontent-sjc3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+www.facebook.com

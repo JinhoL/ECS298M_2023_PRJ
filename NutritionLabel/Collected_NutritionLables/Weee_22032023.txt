@@ -1,0 +1,28 @@
+[1] privacy_Type : Data Used to Track You
+	Contact Info: Email Address
+[2] purposes
+[1] privacy_Type : Data Linked to You
+[2] purposes
+	Purchases: Purchase History
+	Contact Info: Email Address,Name
+	Purchases: Purchase History
+	Contact Info: Physical Address
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction
+	Purchases: Purchase History
+	Contact Info: Physical Address
+	Search History: Search History
+	Identifiers: User ID
+	Usage Data: Product Interaction
+	Purchases: Purchase History
+	Contact Info: Physical Address,Email Address,Name,Phone Number
+	User Content: Photos or Videos,Customer Support
+	Search History: Search History
+	Identifiers: User ID,Device ID
+	Usage Data: Product Interaction
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	Location: Precise Location
+	Diagnostics: Crash Data,Performance Data,Other Diagnostic Data
+

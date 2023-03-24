@@ -1,0 +1,16 @@
+[1] privacy_Type : Data Used to Track You
+	Identifiers: Device ID
+[2] purposes
+[1] privacy_Type : Data Not Linked to You
+[2] purposes
+	Identifiers: Device ID
+	Usage Data: Advertising Data
+	Purchases: Purchase History
+	Identifiers: User ID
+	Usage Data: Product Interaction
+	Diagnostics: Crash Data,Performance Data
+	Purchases: Purchase History
+	Identifiers: User ID
+	Usage Data: Product Interaction
+	Diagnostics: Crash Data,Performance Data
+
